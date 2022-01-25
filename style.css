@@ -58,5 +58,8 @@ body {
   .page-title {
     font-size: 2.5rem;
   }
+ .ET-container {
+    margin-top: 20%;
+  }
 }
 
